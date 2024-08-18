@@ -2,7 +2,7 @@
 
 # roberta-base_auditor_sentiment
 
-This model is a fine-tuned version of [roberta-base](https://huggingface.co/roberta-base) on [auditor_sentiment](https://huggingface.co/datasets/FinanceInc/auditor_sentiment?row=23) dataset.
+This model is based on [roberta-base](https://huggingface.co/roberta-base) trainning from [auditor_sentiment](https://huggingface.co/datasets/FinanceInc/auditor_sentiment?row=23) dataset.
 
 It achieves the following results on the evaluation set:
 - Loss: 0.5356
